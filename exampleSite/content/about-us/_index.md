@@ -1,19 +1,29 @@
 ---
-title: "About Us"
-subtitle: "This is who we are"
-# meta description
-description: "This is meta description"
-draft: false
+title: 简介
+subtitle: 公司简介
+description: This is meta description
+
 ---
+# 北京翰昆天赢文化发展有限公司
 
-# What is Lorem Ipsum
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+北京翰昆天赢文化发展有限公司成立于2015年，致力于打造与发展军工文化传统文化IP及线上线下衍生品。我们凭借强大的IP 运营能力，以军工文化、传统文化、国潮文化为业务主线。 在NFT数字藏品方面的具有较强的孵化能力， 从策划、设计、开发到运营、线上线下联动构筑“数字IP”完整生态闭环。
 
-# Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+我们将文化藏品数字化为目标，采用3D、特效动态等表现形式，在数字艺术平台传播，通过技术创新、方法创新、能力创新实现文化创新。让各类型的文化作品在数字时代实现更好的延续。让大众更清晰了解品牌 IP的社会价值和传播价值。
 
+我们积极响应传统文化复兴，实体经济复兴，抓住国家布局，国潮经济发展机遇，共同助力传统IP文创建设，打造新时代的国潮文化。
 
-# Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+我们认为，未来NFT市场规模尚有较大发展空间，同时未来资产种类会更加丰富，更多艺术品、卡牌、NFT游戏、以及其他新的应用或将面世。技术层面预计也有较大提升空间，包括算力平台、云计算等。
 
-The standard chunk of Lorem Ipsum used since the 150
+# **国际合作**
+
+国际授权业协会的英文全称为International Licensing IndustryMerchandiser's Association ,是世界品牌授权业内最大的国际贸易组，会员包括众多知名的公司和机构，如Walt Disney, Time Warner，Coco-cola, MTV, Mattel, Sony等。始于卡通人物的商品化，品牌授权已有100多年的历史，在《财富》杂志所列500家大型企业中，三分之一以上企业的业务与品牌授权有关。品牌授权已成为跨国公司战略的一个重要组成部份，因此， 品牌授权被称为21世纪最有前途的商业经营模式。
+
+**我公司拥有国内授权资源200余家，国际授权数字IP资源千余家。为后期合作发展奠定了稳定的基石，同时也能够紧跟国际授权产业及数字IP领域的发展速度。**
+
+### 企业观念
+
+**企业愿景：以品质提升价值，做最受信任的品牌孵化与推广服务商。**
+
+**企业使命：弘扬传统文化，让传统文化回归大众。传承非遗文化，让非遗文化走 进生活。**
+
+**企业价值观：我们正在努力创造无限的机会，提升客户的品牌服务，推动文化产业进展。**
