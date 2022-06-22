@@ -14,7 +14,7 @@ description: This is meta description
 
 我们认为，未来NFT市场规模尚有较大发展空间，同时未来资产种类会更加丰富，更多艺术品、卡牌、NFT游戏、以及其他新的应用或将面世。技术层面预计也有较大提升空间，包括算力平台、云计算等。
 
-# **国际合作**
+### **国际合作**
 
 国际授权业协会的英文全称为International Licensing IndustryMerchandiser's Association ,是世界品牌授权业内最大的国际贸易组，会员包括众多知名的公司和机构，如Walt Disney, Time Warner，Coco-cola, MTV, Mattel, Sony等。始于卡通人物的商品化，品牌授权已有100多年的历史，在《财富》杂志所列500家大型企业中，三分之一以上企业的业务与品牌授权有关。品牌授权已成为跨国公司战略的一个重要组成部份，因此， 品牌授权被称为21世纪最有前途的商业经营模式。
 
